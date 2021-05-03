@@ -2,4 +2,4 @@
 applications:
  - name: movies-reviews-database-5ca
    random-route: false
-   memory: 256M
+   memory: 128M
